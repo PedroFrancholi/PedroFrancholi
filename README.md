@@ -11,8 +11,6 @@
 </div>
   
   ##
- 
-  ![PedroFrancholi GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroFrancholi&show_icons=true&theme=transparent)
   
 </div>
 
