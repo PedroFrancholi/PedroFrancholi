@@ -10,8 +10,6 @@
   <img align="center" alt="Pedro-Type" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
 </div>
   
-  ##
-  
 </div>
 
 ## Tecnologias que eu uso no meu dia a dia
